@@ -5,6 +5,7 @@ Esta pieza ha sido creada para sujetar skates en la pared
 ![skate1](images/skate2.PNG)
 
 - imagen sólida
+
 ![skate1](images/skate1.PNG)
 
 - fotos de la impresión
